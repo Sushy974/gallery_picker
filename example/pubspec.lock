@@ -346,10 +346,11 @@ packages:
   photo_gallery:
     dependency: transitive
     description:
-      name: photo_gallery
-      sha256: "2beaab9577f393c1711045ffdb5732234d3fecd10aa16e5c19a58ee9139905a4"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: master
+      resolved-ref: f454c9d519eaf48d3b7c16b98b79689f8ed07202
+      url: "https://github.com/DeuMiAn/photo_gallery.git"
+    source: git
     version: "2.2.1"
   plugin_platform_interface:
     dependency: transitive
