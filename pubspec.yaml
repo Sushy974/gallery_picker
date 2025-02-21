@@ -25,4 +25,10 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+
+dependency_overrides:
+  photo_gallery:
+    git:
+      url: https://github.com/DeuMiAn/photo_gallery.git
+      ref: master
   
